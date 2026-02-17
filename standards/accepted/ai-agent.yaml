@@ -33,10 +33,13 @@ history:
     date: '2026-01-14'
     name: mpurtell
     reason: 'Accepted – added to CAT-MIP registry'
+<<<<<<< syntax20250128
   -
     date: '2026-01-28'
     author: mpurtell
     reason: 'Accepted – added to CAT-MIP registry'
+=======
+>>>>>>> main
 synonyms:
   - Agentic AI
   - Assistant Agent
